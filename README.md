@@ -1,0 +1,1 @@
+# cpnk-staking-fe
